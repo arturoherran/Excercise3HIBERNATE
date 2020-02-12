@@ -1,0 +1,16 @@
+body {
+	background-color: antiquewhite;
+	color: black;
+	font-family: arial;
+	margin: auto;
+	text-align: center;
+}
+
+.container.md {
+	margin: auto;
+	padding: 5% 5%;
+}
+.btn {
+	background-color: rgb(118,178,56);
+	border: none;
+}

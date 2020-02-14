@@ -14,3 +14,14 @@ body {
 	background-color: rgb(118,178,56);
 	border: none;
 }
+
+.option-bar {
+	margin: 2em;
+	padding: 1em;
+}
+
+form {
+	display: block;
+	margin: 1em;
+	padding: 1em;
+}

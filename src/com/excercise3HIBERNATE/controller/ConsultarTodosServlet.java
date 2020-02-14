@@ -49,7 +49,7 @@ public class ConsultarTodosServlet extends HttpServlet {
 			
 			elLibro = (Libro)iterador.next();
 			System.out.println("nombre: " + elLibro.getNombreLibro());
-			response.getWriter().append("nombre: " + elLibro.getNombreLibro());
+			response.getWriter().append("Nombre: " + elLibro.getNombreLibro() + ". ");
 			
 		}
 

@@ -24,7 +24,7 @@
 	</property>
 	
 	<property name = "hibernate.connection.password">
-	
+		
 	</property>
 	
 	</session-factory>

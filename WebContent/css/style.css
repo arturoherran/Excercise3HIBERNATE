@@ -13,6 +13,7 @@ body {
 .btn {
 	background-color: rgb(118,178,56);
 	border: none;
+	width: 100%;
 }
 
 .option-bar {
@@ -24,4 +25,8 @@ form {
 	display: block;
 	margin: 1em;
 	padding: 1em;
+}
+
+.col-sm-3 {
+	padding: 0.2em;
 }

@@ -22,10 +22,23 @@ pageEncoding="ISO-8859-1"%>
 			<div class="container">
 			
 				<div class="form-group row justify-content-around option-bar">
-					<button type="button" class="btn btn-primary btn-lg" name="crear_entrada" id="crear_entrada">Crear Registro</button>
-					<button type="button" class="btn btn-primary btn-lg" name="hacer_consulta" id="hacer_consulta">Consultar Registros</button>
-					<button type="button" class="btn btn-primary btn-lg" name="crear_entrada" id="actualizar_entrada">Actualizar Registro</button>
-					<button type="button" class="btn btn-primary btn-lg" name="hacer_consulta" id="eliminar_entrada">Eliminar Registro</button>
+					
+					<div class="col-sm-3">
+						<button type="button" class="btn btn-primary btn-lg" name="crear_entrada" id="crear_entrada">Crear Registro</button>
+					</div>
+					
+					<div class="col-sm-3">
+						<button type="button" class="btn btn-primary btn-lg" name="hacer_consulta" id="hacer_consulta">Consultar Registros</button>
+					</div>
+					
+					<div class="col-sm-3">
+						<button type="button" class="btn btn-primary btn-lg" name="crear_entrada" id="actualizar_entrada">Actualizar Registro</button>
+					</div>
+					
+					<div class="col-sm-3">
+						<button type="button" class="btn btn-primary btn-lg" name="hacer_consulta" id="eliminar_entrada">Eliminar Registro</button>
+					</div>
+					
 					
 					
 				</div>
